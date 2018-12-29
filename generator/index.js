@@ -3,7 +3,7 @@ module.exports = (api, opts, rootOptions) => {
 
   api.extendPackage({
     dependencies: {
-      'element-ui': '^2.4.5'
+      'element-ui': '^2.4.11'
     }
   })
 
